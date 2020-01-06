@@ -2,7 +2,7 @@
 Here i have Controlled my home appliances with the voice command to Google Home or Google Assistant.
 
 Tools:
-1.Raspberry Pi
+1.Raspberry Pi <br>
 2.Relay module
 
 Technology:
