@@ -25,3 +25,12 @@ I have shared raspberry pi program file . You just need to change feed name and 
 
 step 4:
 connect raspberry pi with relay .
+
+step 5: 
+run raspberry pi program
+
+step 6:
+Here is the working demo:
+https://www.youtube.com/watch?v=QNQJXV85M10
+
+
